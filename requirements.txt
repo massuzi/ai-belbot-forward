@@ -1,0 +1,8 @@
+
+flask
+twilio
+openai
+gspread
+oauth2client
+python-dotenv
+requests
