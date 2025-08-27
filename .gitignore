@@ -1,0 +1,19 @@
+# Geheimen en API keys
+.env
+credentials.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS bestanden
+.DS_Store
+
+# Editor instellingen
+.vscode/
+.idea/
+
+# Logs
+*.log
